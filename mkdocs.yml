@@ -1,6 +1,6 @@
 site_name: Reshipi
 site_description: Une collection de recettes multilingue
-site_url: ""
+site_url: https://muskeg.github.io/reshipi/
 
 theme:
   name: material
