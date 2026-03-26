@@ -1,7 +1,7 @@
-# Welcome to Reshipi
+# Bienvenue sur Reshipi
 
-A curated collection of recipes from around the world, available in multiple languages.
+Une collection de recettes du monde entier, disponible en plusieurs langues.
 
-## Browse Recipes
+## Parcourir les recettes
 
-Head over to the [Recipes](recipes/index.md) section to explore the collection.
+Rendez-vous dans la section [Recettes](recipes/index.md) pour explorer la collection.

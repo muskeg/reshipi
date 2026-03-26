@@ -2,24 +2,24 @@
 
 | | |
 |---|---|
-| **Servings** | 4 |
-| **Prep time** | 20 min |
-| **Cook time** | 45 min |
+| **Portions** | 4 |
+| **Préparation** | 20 min |
+| **Cuisson** | 45 min |
 
-## Ingredients
+## Ingrédients
 
-- 4 egg yolks
-- 1/3 cup sugar, plus extra for topping
-- 2 cups heavy cream
-- 1 tsp vanilla extract
+- 4 jaunes d'œufs
+- 1/3 tasse de sucre, plus un supplément pour le dessus
+- 2 tasses de crème épaisse
+- 1 c. à c. d'extrait de vanille
 
 ## Instructions
 
-1. Preheat oven to 325°F (160°C).
-2. Whisk egg yolks and sugar until smooth.
-3. Heat cream until it just begins to simmer, then slowly pour into egg mixture while whisking.
-4. Stir in vanilla extract.
-5. Pour into ramekins and place in a baking dish. Fill the dish with hot water halfway up the sides of the ramekins.
-6. Bake for 40–45 minutes until set but still slightly jiggly in the center.
-7. Refrigerate for at least 2 hours.
-8. Sprinkle sugar on top and caramelize with a torch or under a broiler before serving.
+1. Préchauffer le four à 160°C.
+2. Fouetter les jaunes d'œufs et le sucre jusqu'à obtenir un mélange lisse.
+3. Chauffer la crème jusqu'à frémissement, puis verser lentement sur le mélange d'œufs en fouettant.
+4. Incorporer l'extrait de vanille.
+5. Verser dans des ramequins et les placer dans un plat allant au four. Remplir le plat d'eau chaude à mi-hauteur des ramequins.
+6. Cuire pendant 40 à 45 minutes jusqu'à ce que la crème soit prise mais encore légèrement tremblotante au centre.
+7. Réfrigérer pendant au moins 2 heures.
+8. Saupoudrer de sucre et caraméliser au chalumeau ou sous le gril avant de servir.

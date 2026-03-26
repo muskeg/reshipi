@@ -1,5 +1,5 @@
-# Recipes
+# Recettes
 
-Browse recipes by category or search for something specific.
+Parcourez les recettes par catégorie ou recherchez quelque chose en particulier.
 
-*Recipes will appear here as they are added.*
+*Les recettes apparaîtront ici au fur et à mesure qu'elles seront ajoutées.*
