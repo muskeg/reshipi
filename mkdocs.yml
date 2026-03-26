@@ -24,6 +24,7 @@ theme:
 
 plugins:
   - search
+  - tags
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -52,6 +53,8 @@ nav:
   - Recettes:
       - recipes/index.md
       - Crème Brûlée: recipes/creme-brulee.md
+      - Miso: recipes/miso.md
+  - Tags: tags.md
 
 markdown_extensions:
   - admonition
