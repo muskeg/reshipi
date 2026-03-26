@@ -1,0 +1,64 @@
+site_name: Reshipi
+site_description: Une collection de recettes multilingue
+site_url: ""
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.tabs.link
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: fr
+          default: true
+          name: Français
+          build: true
+        - locale: en
+          name: Original
+          build: true
+          nav_translations:
+            Accueil: Home
+            Recettes: Recipes
+        - locale: ja
+          name: 日本語
+          build: true
+          nav_translations:
+            Accueil: ホーム
+            Recettes: レシピ
+
+nav:
+  - Accueil: index.md
+  - Recettes:
+      - recipes/index.md
+      - Crème Brûlée: recipes/creme-brulee.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - tables
