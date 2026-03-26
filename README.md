@@ -1,4 +1,4 @@
-# Reshipi 🍳
+# レシピ 🍳
 
 A multilingual recipe website built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and deployed to GitHub Pages.
 
