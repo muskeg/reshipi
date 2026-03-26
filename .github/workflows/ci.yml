@@ -28,6 +28,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          lfs: true
 
       - uses: actions/setup-python@v5
         with:
@@ -35,5 +37,11 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - name: Optimize images
+        run: |
+          sudo apt-get install -y -qq imagemagick > /dev/null
+          find docs/recipes/images -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" \) \
+            -exec mogrify -resize "800x>" -quality 80 {} \;
 
       - run: mkdocs build --strict

@@ -1,4 +1,4 @@
-site_name: Reshipi
+site_name: レシピ
 site_description: Une collection de recettes multilingue
 site_url: https://muskeg.github.io/reshipi/
 
@@ -24,7 +24,9 @@ theme:
 
 plugins:
   - search
-  - tags
+  - tags:
+      listings_map:
+        tags.md: {}
   - i18n:
       docs_structure: suffix
       fallback_to_default: true

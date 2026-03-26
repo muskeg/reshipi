@@ -1,6 +1,6 @@
-# Bienvenue sur Reshipi
+# Bienvenue sur レシピ
 
-Une collection de recettes du monde entier, disponible en plusieurs langues.
+Une collection de recettes, sans les histoires de vie.
 
 ## Parcourir les recettes
 

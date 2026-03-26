@@ -15,6 +15,8 @@ Dessert français classique composé d'une crème aux œufs onctueuse, recouvert
 | **Préparation** | 20 min |
 | **Cuisson** | 45 min |
 
+![Crème Brûlée](images/creme-brulee.jpg)
+
 ## Ingrédients
 
 - 4 jaunes d'œufs
