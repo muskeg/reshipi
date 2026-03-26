@@ -1,4 +1,13 @@
+---
+tags:
+  - dessert
+  - français
+  - crème
+---
+
 # Crème Brûlée
+
+Dessert français classique composé d'une crème aux œufs onctueuse, recouverte d'une fine couche de sucre caramélisé craquant.
 
 | | |
 |---|---|
@@ -9,8 +18,8 @@
 ## Ingrédients
 
 - 4 jaunes d'œufs
-- 1/3 tasse de sucre, plus un supplément pour le dessus
-- 2 tasses de crème épaisse
+- 80 g de sucre, plus un supplément pour le dessus
+- 480 ml de crème épaisse
 - 1 c. à c. d'extrait de vanille
 
 ## Instructions
