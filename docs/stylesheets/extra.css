@@ -109,6 +109,18 @@
   opacity: 1;
 }
 
+/* Override Material's mobile drawer absolute positioning for filter sub-navs */
+@media screen and (max-width: 76.234375em) {
+  .filter-section > .md-nav {
+    position: static;
+    height: auto;
+    display: block;
+    opacity: 1;
+    transform: none;
+    background-color: transparent;
+  }
+}
+
 /* Recipe hero — side-by-side intro + image */
 .recipe-hero {
   display: flex;
