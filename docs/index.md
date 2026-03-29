@@ -2,6 +2,9 @@
 
 Une collection de recettes, sans les histoires de vie.
 
+<div class="recipe-layout">
+<nav class="recipe-sidebar" id="recipe-sidebar"></nav>
+<div class="recipe-main">
 <div class="recipe-grid" markdown>
 
 <div class="recipe-card" data-tags="dessert,français,crème" data-category="desserts">
@@ -34,4 +37,21 @@ Une collection de recettes, sans les histoires de vie.
 </a>
 </div>
 
+<div class="recipe-card" data-tags="pain,artisan,vegan,cuisine américaine" data-category="pains">
+<a href="recipes/crusty-french-bread/">
+<img src="/reshipi/recipes/images/crusty-french-bread.jpg" alt="Pain croustillant" loading="lazy">
+<div class="card-body">
+<h3>Pain croustillant</h3>
+<p>Pain artisanal cuit en cocotte, prêt en quelques heures sans levée de nuit.</p>
+</div>
+<div class="card-tags">
+<span>pain</span>
+<span>artisan</span>
+<span>vegan</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
 </div>

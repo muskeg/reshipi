@@ -1,7 +1,10 @@
-# レシピ
+# レシピ へようこそ
 
 世界中のレシピを多言語で提供するコレクションです。
 
+<div class="recipe-layout">
+<nav class="recipe-sidebar" id="recipe-sidebar"></nav>
+<div class="recipe-main">
 <div class="recipe-grid" markdown>
 
 <div class="recipe-card" data-tags="デザート,フランス料理,クリーム" data-category="デザート">
@@ -34,4 +37,21 @@
 </a>
 </div>
 
+<div class="recipe-card" data-tags="パン,手作り,ヴィーガン,アメリカ料理" data-category="パン">
+<a href="recipes/crusty-french-bread/">
+<img src="/reshipi/recipes/images/crusty-french-bread.jpg" alt="クラスティブレッド" loading="lazy">
+<div class="card-body">
+<h3>クラスティブレッド</h3>
+<p>ダッチオーブンで焼く手作りパン。一晩発酵不要で数時間で完成。</p>
+</div>
+<div class="card-tags">
+<span>パン</span>
+<span>手作り</span>
+<span>ヴィーガン</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
 </div>

@@ -66,7 +66,7 @@ Condiment fermenté traditionnel japonais à base de soja, de kōji de riz et de
 ## Instructions
 
 1. Laver les graines de soja et les faire tremper dans un grand volume d'eau pendant une nuit.
-2. Mettre le soja et <span class="qty" data-qty="1.5" data-unit="l" data-type="water">1,5 litre</span> d'eau dans une grande marmite. Cuire à feu moyen-doux pendant 8 à 12 heures. Écumer régulièrement et ajouter de l'eau au besoin pour que les graines restent immergées. (En cocotte-minute : 20 minutes, puis laisser la pression redescendre.)
+2. Mettre le soja et <span class="qty" data-qty="1.5" data-unit="l" data-type="water">1,5 litre</span> d'eau dans une grande marmite. Cuire à feu moyen-doux pendant 8 à 12 heures. Écumer régulièrement et ajouter de l'eau au besoin pour que les graines restent immergées. (En autocuiseur : 20 minutes, puis laisser la pression redescendre.)
 3. Verser le kōji de riz dans un grand récipient et bien l'émietter à la main jusqu'à éliminer tous les grumeaux. Ajouter le gros sel et bien mélanger (salage du kōji). Réserver la moitié dans un bol.
 4. Quand les graines de soja s'écrasent facilement entre les doigts, retirer du feu. Séparer les graines du bouillon de cuisson tant qu'elles sont chaudes. Conserver le bouillon.
 5. Transférer le soja dans un sac et l'écraser chaud à l'aide d'un rouleau à pâtisserie. Laisser tiédir.
@@ -74,7 +74,7 @@ Condiment fermenté traditionnel japonais à base de soja, de kōji de riz et de
 7. Si le mélange est trop ferme, ajouter du bouillon de cuisson pour obtenir la consistance du miso.
 8. Former des boules de miso d'environ 20 cm de diamètre pour en chasser l'air, puis les lancer vigoureusement dans le récipient de conservation.
 9. Tasser uniformément en évitant toute poche d'air et lisser la surface.
-10. Saupoudrer une poignée de gros sel (environ 2 c. à s.), poser un couvercle intérieur, ajouter encore deux poignées de sel, poser un poids et fermer. Laisser fermenter environ 3 mois. Le miso est prêt quand le liquide (tamari) remonte à la surface.
+10. Saupoudrer une poignée de gros sel (environ 2 c. à soupe), poser un couvercle intérieur, ajouter encore deux poignées de sel, poser un poids et fermer. Laisser fermenter environ 3 mois. Le miso est prêt quand le liquide (tamari) remonte à la surface.
 
 ---
 
