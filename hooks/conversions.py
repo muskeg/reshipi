@@ -55,7 +55,7 @@ VOLUME_TO_ML = {
 UNIT_NAMES = {
     "fr": {
         "g": "g", "kg": "kg", "ml": "ml", "l": "l", "cl": "cl", "dl": "dl",
-        "cup": ("tasse", "tasses"), "tbsp": "c. à s.", "tsp": "c. à c.",
+        "cup": ("tasse", "tasses"), "tbsp": "c. à soupe", "tsp": "c. à thé",
         "oz": "oz", "lb": "lb", "fl_oz": "oz liq.",
     },
     "ja": {

@@ -23,7 +23,7 @@ tags:
     "ja": ["デザート", "フランス料理", "クリーム"]
   },
   "ingredients": {
-    "fr": ["4 jaunes d'œufs", "80 g de sucre, plus un supplément pour le dessus", "480 ml de crème épaisse", "1 c. à c. d'extrait de vanille"],
+    "fr": ["4 jaunes d'œufs", "80 g de sucre, plus un supplément pour le dessus", "480 ml de crème 35 %", "1 c. à thé d'extrait de vanille"],
     "ja": ["卵黄 4個", "砂糖 大さじ3（トッピング用に追加分も用意）", "生クリーム 480ml", "バニラエッセンス 小さじ1"]
   },
   "instructions": {
@@ -59,8 +59,8 @@ Dessert français classique composé d'une crème aux œufs onctueuse, recouvert
 
 - 4 jaunes d'œufs
 - <span class="qty" data-qty="80" data-unit="g" data-type="sugar">80 g</span> de sucre, plus un supplément pour le dessus
-- <span class="qty" data-qty="480" data-unit="ml" data-type="cream">480 ml</span> de crème épaisse
-- <span class="qty" data-qty="1" data-unit="tsp">1 c. à c.</span> d'extrait de vanille
+- <span class="qty" data-qty="480" data-unit="ml" data-type="cream">480 ml</span> de crème 35 %
+- <span class="qty" data-qty="1" data-unit="tsp">1 c. à thé</span> d'extrait de vanille
 
 ## Instructions
 
